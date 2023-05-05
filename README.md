@@ -1,5 +1,8 @@
 ### Olá! Eu sou Ramires Oliveira ✋
 
+<span>- 💻 Desenvolvedor Full Stack</span><br/>
+<span>- 🎓 Graduado em Ciências da Computação</span>
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramires-de-oliveira-louren%C3%A7o-3639891b0/)
 
 ![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ramires-oliveira&show_icons=true&theme=dark)
@@ -15,4 +18,5 @@
     <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
