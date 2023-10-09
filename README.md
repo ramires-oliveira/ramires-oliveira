@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ramires Oliveira ✋
 
 <span>- 💻 Desenvolvedor Full Stack</span><br/>
-<span>- 🎓 Graduado em Ciências da Computação</span>
+<span>- 🎓 Graduado em Ciência da Computação</span>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramires-de-oliveira-louren%C3%A7o-3639891b0/)
 
